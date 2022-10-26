@@ -1,7 +1,7 @@
 # CandC_Git_Event
 Cookies &amp; Code Intro To GitHub Event Repo
-Create a GitHub Account. 
-Check to see if git is properly installed 
+&amp;Create a GitHub Account. 
+Check to see if git &amp;is properly installed 
 git – version
 Install Git
 Mac: Git is already accessible via your terminal
